@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<div><img align="right" src="https://camo.githubusercontent.com/06c34c30ea9d6c49fde7b76c2a8d386337ceed02252c5a5ab22a7c5fce5e0574/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f522e35346533376438303734656263646531643936633737643762326137663331303f72696b3d6658334a53437365496259634b41267069643d496d6752617726723d30" alt="logo" height="100" width="150"></div>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/damodar-yadav-690425177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/damodar-yadav-690425177" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/damodarryadav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="damodarryadav" height="30" width="40" /></a>
 </p>
