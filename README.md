@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Damodar Yadav</h1>
 <h3 align="center">Passionate about Full stack development and Data science.</h3>
+
 <p align="center"> <img src="https://holopin.io/@mrlegendx10" alt="mrlegendx10" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrlegendx10&label=Profile%20views&color=0e75b6&style=flat" alt="mrlegendx10" /> </p>
 
