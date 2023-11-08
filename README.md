@@ -4,8 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrlegendx10&label=Profile%20views&color=0e75b6&style=flat" alt="mrlegendx10" /> </p>
 
-<div width="500px">
-  ## 🙋‍♂️ About Me
+<div><img align="right" src="https://stats.quine.sh/MrLEGENDx10/github?theme=dark" title="Quine Stats Card" alt="logo" height="330" width="420"></div>
+
+ ## 🙋‍♂️ About Me
 - 👨‍💻 Love to learn new technologies and to explore new set of areas.
 - 👁‍🗨 What's unique about me → Ability to quickly Learn and Master
   a new skill and to implement it to solve a realtime problems.
@@ -13,9 +14,9 @@
 - 👯 I’m looking to collaborate on **Open-Source Projects**.
 - 📫 How to reach me **legendgaming9032@gmail.com**
 - ⚡ Fact is : **I LOVE CODING**
-</div>
 
-<div><img align="right" src="https://stats.quine.sh/MrLEGENDx10/github?theme=dark" title="Quine Stats Card" alt="logo" height="330" width="420"></div>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
