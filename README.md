@@ -7,6 +7,7 @@
  ## 🙋‍♂️ About Me
 <div><img align="right" src="https://stats.quine.sh/MrLEGENDx10/github?theme=dark" title="Quine Stats Card" alt="logo" height="330" width="420"></div>
 
+<br>
 - 👨‍💻 Love to learn new technologies and to explore new set of areas.
 - 👁‍🗨 What's unique about me → Ability to quickly Learn and Master
   a new skill and to implement it to solve a realtime problems.
