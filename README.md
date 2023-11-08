@@ -1,3 +1,4 @@
+![GitHub Banner](https://github.com/Alkaison/Alkaison/assets/98116504/e5a4cb56-1eb4-4a36-8f5b-cefffdfbd074)
 <h1 align="center">Hi 👋, I'm Damodar Yadav</h1>
 <h3 align="center">Passionate about Full stack development and Data science.</h3>
 
