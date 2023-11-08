@@ -63,4 +63,4 @@
   </a>
 
 ## 🛡️ Holopin Badges
-<p align="center"> <img src="https://holopin.me/mrlegendx10" alt="mrlegendx10" /> </p>
+<p align="center"> <img src="https://holopin.me/mrlegendx10" alt="mrlegendx10" width="100%" height="250" /> </p>
