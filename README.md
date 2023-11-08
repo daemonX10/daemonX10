@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Damodar Yadav</h1>
 <h3 align="center">Passionate about Full stack development and Data science.</h3>
 
-<p align="center"> <img src="https://holopin.me/mrlegendx10" alt="mrlegendx10" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrlegendx10&label=Profile%20views&color=0e75b6&style=flat" alt="mrlegendx10" /> </p>
 
 <div><img align="right" src="https://stats.quine.sh/MrLEGENDx10/github?theme=dark" title="Quine Stats Card" alt="logo" height="350" width="450"></div>
@@ -35,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrlegendx10&show_icons=true&locale=en" alt="mrlegendx10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrlegendx10&" alt="mrlegendx10" /></p>
+<p align="center"> <img src="https://holopin.me/mrlegendx10" alt="mrlegendx10" /> </p>
