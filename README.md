@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrlegendx10&label=Profile%20views&color=0e75b6&style=flat" alt="mrlegendx10" /> </p>
 
-<div width="500">
+<div width="500px">
   ## 🙋‍♂️ About Me
 - 👨‍💻 Love to learn new technologies and to explore new set of areas.
 - 👁‍🗨 What's unique about me → Ability to quickly Learn and Master
