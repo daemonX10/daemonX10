@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrlegendx10&label=Profile%20views&color=0e75b6&style=flat" alt="mrlegendx10" /> </p>
 
+<br>
+<br>
 <div><img align="right" src="https://stats.quine.sh/MrLEGENDx10/github?theme=dark" title="Quine Stats Card" alt="logo" height="350" width="450"></div>
 
 ## 🙋‍♂️ About Me
