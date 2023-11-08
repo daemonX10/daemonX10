@@ -36,12 +36,20 @@
 
 
 
+## ⚡ GitHub Stats & Languages
 
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats Card">
+  	<img height="200px" src="https://github-readme-stats.vercel.app/api?username=MrLEGENDx10&show_icons=true&theme=react&show=reviews">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Top Languages Card">
+   	<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrLEGENDx10&layout=compact&theme=react&langs_count=10&hide=html,css,scss,ruby,shell&card_width=400">
+  </a>
 
-<h3 align="left"> GitHub Statistics :</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrlegendx10&show_icons=true&locale=en&layout=compact" alt="mrlegendx10" /></p>
+## ☄️ GitHub Streaks
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrlegendx10&show_icons=true&locale=en" alt="mrlegendx10" /></p>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" title="GitHub Streak Stats">
+  	<img height="200px" src="https://streak-stats.demolab.com?user=MrLEGENDx10&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=550)](https://git.io/streak-stats">
+  </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrlegendx10&" alt="mrlegendx10" /></p>
+## 🛡️ Holopin Badges
 <p align="center"> <img src="https://holopin.me/mrlegendx10" alt="mrlegendx10" /> </p>
