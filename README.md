@@ -7,11 +7,11 @@
 <div><img align="right" src="https://stats.quine.sh/MrLEGENDx10/github?theme=dark" title="Quine Stats Card" alt="logo" height="350" width="450"></div>
 
 
-- 👨‍💻 All of my projects are available at ["portfolio link"]("portfolio link")
+- 👨‍💻 All of my projects are available at ["portfolio link"]("GITHUB")
 
 - 📫 How to reach me **legendgaming9032@gmail.com**
 
-- 📄 Know about my experiences ["resume link"]("resume link")
+- 📄 Know about my experiences ["resume link"]("IN Process")
 
 - ⚡ Fact is : **I LOVE CODING**
 
