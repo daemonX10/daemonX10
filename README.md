@@ -50,10 +50,10 @@
 ## ⚡ GitHub Stats & Languages
 
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats Card">
-  	<img height="200px" src="https://github-readme-stats.vercel.app/api?username=MrLEGENDx10&show_icons=true&theme=react&show=reviews">
+  	<img height="200px" width="350" src="https://github-readme-stats.vercel.app/api?username=MrLEGENDx10&show_icons=true&theme=react&show=reviews">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Top Languages Card">
-   	<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrLEGENDx10&layout=compact&theme=react&langs_count=10&hide=html,css,scss,ruby,shell&card_width=400">
+   	<img height="200px" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrLEGENDx10&layout=compact&theme=react&langs_count=10&hide=html,css,scss,ruby,shell&card_width=400">
   </a>
 
 ## ☄️ GitHub Streaks
@@ -63,4 +63,4 @@
   </a>
 
 ## 🛡️ Holopin Badges
-<p align="center"> <img src="https://holopin.me/mrlegendx10" alt="mrlegendx10" width="100%" height="300" /> </p>
+<p align="center"> <img src="https://holopin.me/mrlegendx10" alt="mrlegendx10" width="100%" height="250" /> </p>
