@@ -1,8 +1,6 @@
 ![GitHub Banner](https://github.com/Alkaison/Alkaison/assets/98116504/e5a4cb56-1eb4-4a36-8f5b-cefffdfbd074)
 <h1 align="center">Hi 👋, I'm Damodar Yadav</h1>
-<h3 align="center">Passionate about Full stack development and Data science.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrlegendx10&label=Profile%20views&color=0e75b6&style=flat" alt="mrlegendx10" /> </p>
+<h3 align="center">Passionate about Open Source and AI/ML .</h3>
 
  # 🙋‍♂️ About Me
 <div><img align="right" src="https://stats.quine.sh/MrLEGENDx10/github?theme=dark" title="Quine Stats Card" alt="logo" height="330" width="420"></div>
@@ -14,8 +12,6 @@
 - 👯 I’m looking to collaborate on **Open-Source Projects**.
 - 📫 How to reach me **legendgaming9032@gmail.com**
 - ⚡ Fact is : **I LOVE CODING**
-
-
 
 
 <h3 align="left">Connect with me:</h3>
@@ -64,3 +60,9 @@
 
 ## 🛡️ Holopin Badges
 <p align="center"> <img src="https://holopin.me/mrlegendx10" alt="mrlegendx10" width="100%" height="250" /> </p>
+
+#  😎 Contribution Graph 😎
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=MrLEGENDx10&bg_color=101820&color=89ABE3&line=FEE715&point=FFFFFF&hide_border=true)
+
+![](https://komarev.com/ghpvc/?username=MrLEGENDx10&color=blue)
