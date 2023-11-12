@@ -65,4 +65,4 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=MrLEGENDx10&bg_color=101820&color=89ABE3&line=FEE715&point=FFFFFF&hide_border=true)
 
-![](https://komarev.com/ghpvc/?username=MrLEGENDx10&color=blue)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mrlegendx10&label=Profile%20views&color=0e75b6&style=flat" alt="mrlegendx10" /> </p>
