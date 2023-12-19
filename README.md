@@ -24,8 +24,9 @@
 
 | Project List | Topic | Languages |
 | :--- | :---: | :---: |
-| [**🔗 REAL ESTATE MERN **](https://project-mern-deploy-silk.vercel.app/) | Website | React.JS |
+| [**🔗 REAL ESTATE MERN **](https://project-mern-deploy-silk.vercel.app/) | Website | FULL STACK |
 | [**🔗 Review scapper **](https://github.com/MrLEGENDx10/review-scrapper-aws-main) | Web App | python |
+| [**🔗 POKEDEX **](https://react-js-theta-eight.vercel.app/) | Website | React.JS |
 
 <h3 align="left" style:{display:flex,justify-content:space-envenly;}>Languages and Tools:</h3>
 <p align="Center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
