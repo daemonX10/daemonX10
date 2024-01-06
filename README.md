@@ -3,7 +3,7 @@
 <h3 align="center">Passionate about Open Source and AI/ML .</h3>
 
  # 🙋‍♂️ About Me
-<div><img align="right" src="https://stats.quine.sh/MrLEGENDx10/github?theme=dark" title="Quine Stats Card" alt="logo" height="330" width="420"></div>
+<div><img align="right" src="https://stats.quine.sh/daemonX10/github?theme=dark" title="Quine Stats Card" alt="logo" height="330" width="420"></div>
 
 - 👨‍💻 Love to learn new technologies and to explore new set of areas.
 - 👁‍🗨 What's unique about me → Ability to quickly Learn and Master
@@ -25,7 +25,7 @@
 | Project List | Topic | Languages |
 | :--- | :---: | :---: |
 | [**🔗 REAL ESTATE MERN **](https://project-mern-deploy-silk.vercel.app/) | Website | FULL STACK |
-| [**🔗 Review scapper **](https://github.com/MrLEGENDx10/review-scrapper-aws-main) | Web App | python |
+| [**🔗 Review scapper **](https://github.com/daemonX10/review-scrapper-aws-main) | Web App | python |
 | [**🔗 POKEDEX **](https://pokedex-pearl-six.vercel.app/) | Website | React.JS |
 | [**🔗 HEADPHONES **](https://pw-skill-assignment.vercel.app/) | STATIC | HTML |
 
@@ -48,16 +48,16 @@
 ## ⚡ GitHub Stats & Languages
 
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats Card">
-  	<img height="300px" width="400" src="https://github-readme-stats.vercel.app/api?username=MrLEGENDx10&show_icons=true&theme=react&show=reviews">
+  	<img height="300px" width="400" src="https://github-readme-stats.vercel.app/api?username=daemonX10&show_icons=true&theme=react&show=reviews">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Top Languages Card">
-   	<img height="300px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrLEGENDx10&layout=compact&theme=react&langs_count=10&hide=html,css,scss,ruby,shell&card_width=400">
+   	<img height="300px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daemonX10&layout=compact&theme=react&langs_count=10&hide=html,css,scss,ruby,shell&card_width=400">
   </a>
 
 ## ☄️ GitHub Streaks
 
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" title="GitHub Streak Stats">
-  	<img height="300px" width="550" src="https://streak-stats.demolab.com?user=MrLEGENDx10&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=550)](https://git.io/streak-stats">
+  	<img height="300px" width="550" src="https://streak-stats.demolab.com?user=daemonX10&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=550)](https://git.io/streak-stats">
   </a>
 
 ## 🛡️ Holopin Badges
@@ -65,6 +65,6 @@
 
 #  😎 Contribution Graph 😎
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=MrLEGENDx10&bg_color=101820&color=89ABE3&line=FEE715&point=FFFFFF&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=daemonX10&bg_color=101820&color=89ABE3&line=FEE715&point=FFFFFF&hide_border=true)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mrlegendx10&label=Profile%20views&color=0e75b6&style=flat" alt="mrlegendx10" /> </p>
