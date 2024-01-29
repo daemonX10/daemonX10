@@ -24,7 +24,8 @@
 
 | Project List | Topic | Languages |
 | :--- | :---: | :---: |
-| [**🔗 REAL ESTATE MERN **](https://project-mern-deploy-silk.vercel.app/) | Website | FULL STACK |
+| [**🔗 Learning Management System **](https://learning-management-system-blush.vercel.app/)) | Website | Mern |
+| [**🔗 REAL ESTATE MERN **](https://project-mern-deploy-silk.vercel.app/) | Website | Mern |
 | [**🔗 Review scapper **](https://github.com/daemonX10/review-scrapper-aws-main) | Web App | python |
 | [**🔗 POKEDEX **](https://pokedex-pearl-six.vercel.app/) | Website | React.JS |
 | [**🔗 HEADPHONES **](https://pw-skill-assignment.vercel.app/) | STATIC | HTML |
