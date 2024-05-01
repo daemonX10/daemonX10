@@ -26,6 +26,7 @@
 | :--- | :---: | :---: |
 | [**🔗 Learning Management System **](https://learning-management-system-blush.vercel.app/)) | Website | Mern |
 | [**🔗 REAL ESTATE MERN **](https://project-mern-deploy-silk.vercel.app/) | Website | Mern |
+| [**🔗 Edu Site **](https://next-js-coral-three-67.vercel.app/) | Website | NextJs + TypeScript |
 | [**🔗 ML Linear Model **](https://linear-ml-model-algerian-forest-1.onrender.com/) | Flask Web | Linear Regression + Ridge |
 | [**🔗 Review scapper **](https://github.com/daemonX10/review-scrapper-aws-main) | Web App | python |
 | [**🔗 POKEDEX **](https://pokedex-pearl-six.vercel.app/) | Website | React.JS |
