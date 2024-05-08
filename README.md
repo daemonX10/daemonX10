@@ -24,7 +24,7 @@
 
 | Project List | Topic | Languages/Tool Details |
 | :--- | :---: | :---: |
-| [**🔗 Learning Management System **](https://learning-management-system-blush.vercel.app/)) | Full Stack | MERN + REDUX + DAISY UI |
+| [**🔗 Learning Management System **](https://learning-management-system-blush.vercel.app/) | Full Stack | MERN + REDUX + DAISY UI |
 | [**🔗 REAL ESTATE MERN **](https://project-mern-deploy-silk.vercel.app/) | Website | Mern |
 | [**🔗 Edu Site **](https://next-js-coral-three-67.vercel.app/) | Ui | NextJs + TypeScript |
 | [**🔗 POKEDEX **](https://pokedex-pearl-six.vercel.app/) | Website | React.JS  |
@@ -34,8 +34,8 @@
 
 | Project List | Topic | Languages/Tool Details |
 | :--- | :---: | :---: |
-| [**🔗 ML Diamond Price Predication **](https://diamond-price-predication-model.onrender.com/)) | Model | ML(GBR) + Python + Flask |
-| [**🔗 Diabetes Predication Logistic Model **](https://diabetes-predication-model-logistic-reg.onrender.com)) | Model | Logistic Regression + Python + Flask|
+| [**🔗 ML Diamond Price Predication **](https://diamond-price-predication-model.onrender.com/) | Model | ML(GBR) + Python + Flask |
+| [**🔗 Diabetes Predication Logistic Model **](https://diabetes-predication-model-logistic-reg.onrender.com) | Model | Logistic Regression + Python + Flask|
 | [**🔗 ML Linear Model **](https://linear-ml-model-algerian-forest-1.onrender.com/) | Model | Linear Regression + Ridge |
 | [**🔗 Review scapper **](https://github.com/daemonX10/review-scrapper-aws-main) | Web App | python |
 
