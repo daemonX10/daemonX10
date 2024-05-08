@@ -20,17 +20,24 @@
 <a href="https://www.codechef.com/users/damodarryadav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="damodarryadav" height="30" width="40" /></a>
 </p>
 
-## 🌐 Web Development Projects
+## 🌐 Web Development Projects 
 
-| Project List | Topic | Languages |
+| Project List | Topic | Languages/Tool Details |
 | :--- | :---: | :---: |
-| [**🔗 Learning Management System **](https://learning-management-system-blush.vercel.app/)) | Website | Mern |
+| [**🔗 Learning Management System **](https://learning-management-system-blush.vercel.app/)) | Full Stack | MERN + REDUX + DAISY UI |
 | [**🔗 REAL ESTATE MERN **](https://project-mern-deploy-silk.vercel.app/) | Website | Mern |
-| [**🔗 Edu Site **](https://next-js-coral-three-67.vercel.app/) | Website | NextJs + TypeScript |
-| [**🔗 ML Linear Model **](https://linear-ml-model-algerian-forest-1.onrender.com/) | Flask Web | Linear Regression + Ridge |
-| [**🔗 Review scapper **](https://github.com/daemonX10/review-scrapper-aws-main) | Web App | python |
-| [**🔗 POKEDEX **](https://pokedex-pearl-six.vercel.app/) | Website | React.JS |
+| [**🔗 Edu Site **](https://next-js-coral-three-67.vercel.app/) | Ui | NextJs + TypeScript |
+| [**🔗 POKEDEX **](https://pokedex-pearl-six.vercel.app/) | Website | React.JS  |
 | [**🔗 HEADPHONES **](https://pw-skill-assignment.vercel.app/) | STATIC | HTML |
+
+## 🌐 Machine Learning Project 
+
+| Project List | Topic | Languages/Tool Details |
+| :--- | :---: | :---: |
+| [**🔗 ML Diamond Price Predication **](https://diamond-price-predication-model.onrender.com/)) | Model | ML(GBR) + Python + Flask |
+| [**🔗 Diabetes Predication Logistic Model **](https://diabetes-predication-model-logistic-reg.onrender.com)) | Model | Logistic Regression + Python + Flask|
+| [**🔗 ML Linear Model **](https://linear-ml-model-algerian-forest-1.onrender.com/) | Model | Linear Regression + Ridge |
+| [**🔗 Review scapper **](https://github.com/daemonX10/review-scrapper-aws-main) | Web App | python |
 
 <h3 align="left" style:{display:flex,justify-content:space-envenly;}>Languages and Tools:</h3>
 <p align="Center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
