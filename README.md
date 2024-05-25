@@ -36,6 +36,7 @@
 | :--- | :---: | :---: |
 | [**🔗 ML Diamond Price Predication **](https://diamond-price-predication-model.onrender.com/) | Model | ML(GBR) + Python + Flask |
 | [**🔗 Diabetes Predication Logistic Model **](https://diabetes-predication-model-logistic-reg.onrender.com) | Model | Logistic Regression + Python + Flask|
+| [**🔗 Senser-Fault-Detection **](https://github.com/daemonX10/Senser-Fault-Detection) | Model | End to End Project (Python,Ensemble,CI/CD) |
 | [**🔗 ML Linear Model **](https://linear-ml-model-algerian-forest-1.onrender.com/) | Model | Linear Regression + Ridge |
 | [**🔗 Review scapper **](https://github.com/daemonX10/review-scrapper-aws-main) | Web App | python |
 
