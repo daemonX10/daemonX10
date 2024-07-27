@@ -1,4 +1,4 @@
-![GitHub Banner](https://github.com/Alkaison/Alkaison/assets/98116504/e5a4cb56-1eb4-4a36-8f5b-cefffdfbd074)
+# ![GitHub Banner](https://github.com/Alkaison/Alkaison/assets/98116504/e5a4cb56-1eb4-4a36-8f5b-cefffdfbd074)
 <h1 align="center">Hi 👋, I'm Damodar Yadav</h1>
 <h3 align="center">Passionate about Open Source and AI/ML .</h3>
 
@@ -8,9 +8,9 @@
 - 👨‍💻 Love to learn new technologies and to explore new set of areas.
 - 👁‍🗨 What's unique about me → Ability to quickly Learn and Master
   a new skill and to implement it to solve a realtime problems.
-- 📘 I’m Currently learning **MERN AND DATA SCIENCE**.
+- 📘 I’m Currently learning **DL and GEN AI**.
 - 👯 I’m looking to collaborate on **Open-Source Projects**.
-- 📫 How to reach me **legendgaming9032@gmail.com**
+- 📫 How to reach me **damodarryadav@gmail.com**
 - ⚡ Fact is : **I LOVE CODING**
 
 
