@@ -8,7 +8,7 @@
 - 👨‍💻 Love to learn new technologies and to explore new set of areas.
 - 👁‍🗨 What's unique about me → Ability to quickly Learn and Master
   a new skill and to implement it to solve a realtime problems.
-- 📘 I’m Currently learning **DL and GEN AI**.
+- 📘 I’m Currently learning ** DSA and GEN AI **.
 - 👯 I’m looking to collaborate on **Open-Source Projects**.
 - 📫 How to reach me **damodarryadav@gmail.com**
 - ⚡ Fact is : **I LOVE CODING**
@@ -80,7 +80,8 @@
 | :--- | :---: | :---: |
 | [**🔗 Learning Management System **](https://learning-management-system-self-mu.vercel.app/) | Full Stack | MERN + REDUX + DAISY UI |
 | [**🔗 REAL ESTATE MERN **](https://project-mern-deploy-silk.vercel.app/) | Website | Mern |
-| [**🔗 Edu Site **](https://next-js-coral-three-67.vercel.app/) | Ui | NextJs + TypeScript |
+| [**🔗 Edu Site **](https://next-js-coral-three-67.vercel.app/) | Ui  | NextJs + TypeScript |
+| [**🔗 Connectify **](https://connectify-six.vercel.app/) | Social Media  | Mern |
 | [**🔗 POKEDEX **](https://pokedex-pearl-six.vercel.app/) | Website | React.JS  |
 | [**🔗 HEADPHONES **](https://pw-skill-assignment.vercel.app/) | STATIC | HTML |
 
