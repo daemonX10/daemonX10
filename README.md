@@ -1,4 +1,4 @@
-# ![GitHub Banner](https://github.com/Alkaison/Alkaison/assets/98116504/e5a4cb56-1eb4-4a36-8f5b-cefffdfbd074)
+<!-- # ![GitHub Banner](https://github.com/Alkaison/Alkaison/assets/98116504/e5a4cb56-1eb4-4a36-8f5b-cefffdfbd074)-->
 <h1 align="center">Hi 👋, I'm Damodar Yadav</h1>
 <h3 align="center">Passionate about Open Source and AI/ML .</h3>
 
@@ -100,7 +100,7 @@
 ## ⚡ GitHub Stats & Languages
 
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats Card">
-  	<img height="300px" width="400" src="https://github-readme-stats.vercel.app/api?username=daemonX10&show_icons=true&theme=react&show=reviews">
+  	<img height="300px" width="300" src="https://github-readme-stats.vercel.app/api?username=daemonX10&show_icons=true&theme=react&show=reviews">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Top Languages Card">
    	<img height="300px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daemonX10&layout=compact&theme=react&langs_count=10&hide=html,css,scss,ruby,shell&card_width=400">
@@ -109,7 +109,7 @@
 ## ☄️ GitHub Streaks
 
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" title="GitHub Streak Stats">
-  	<img height="300px" width="550" src="https://streak-stats.demolab.com?user=daemonX10&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=550)](https://git.io/streak-stats">
+  	<img height="300px" width="300" src="https://streak-stats.demolab.com?user=daemonX10&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=550)](https://git.io/streak-stats">
   </a>
 
 ## 🛡️ Holopin Badges
