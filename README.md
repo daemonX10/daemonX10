@@ -89,6 +89,10 @@
 
 | Project List | Topic | Languages/Tool Details |
 | :--- | :---: | :---: |
+| [**🔗 Shredder System **](https://github.com/daemonX10/PROJECTS/tree/master/Computer%20Vision/shredder%20System) | Wep app + Model | CV |
+| [**🔗 Object Tracking & Detection **](https://github.com/daemonX10/PROJECTS/tree/master/Computer%20Vision/Yolo%205%20Object%20tracking%20DeepSort/deepSort_with_yolov5) | Yolo + DeepSort |
+| [**🔗 Medical ChatBot **](https://github.com/daemonX10/PROJECTS/tree/master/GEN%20AI%20and%20LLM/End-to-end-Medical-Chatbot-using-Llama2) | RAG System | Llama-2 + Langchain + Pinecone |
+| [**🔗 Tokenizer GPT V- 1 & 2 from Scratch **]() | Model | Python |
 | [**🔗 ML Diamond Price Predication **](https://diamond-price-predication-model.onrender.com/) | Model | ML(GBR) + Python + Flask |
 | [**🔗 Diabetes Predication Logistic Model **](https://diabetes-predication-model-logistic-reg.onrender.com) | Model | Logistic Regression + Python + Flask|
 | [**🔗 Senser-Fault-Detection **](https://github.com/daemonX10/Senser-Fault-Detection) | Model | End to End Project (Python,Ensemble,CI/CD) |
