@@ -3,7 +3,7 @@
 <h3 align="center">Passionate about Open Source and AI/ML .</h3>
 
  # 🙋‍♂️ About Me
-<div><img align="right" src="https://stats.quine.sh/daemonX10/github?theme=dark" title="Quine Stats Card" alt="logo" height="330" width="320"></div>
+<!-- <div><img align="right" src="https://stats.quine.sh/daemonX10/github?theme=dark" title="Quine Stats Card" alt="logo" height="330" width="320"></div> -->
 
 - 👨‍💻 Love to learn new technologies and to explore new set of areas.
 - 👁‍🗨 What's unique about me → Ability to quickly Learn and Master
