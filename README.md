@@ -111,12 +111,15 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Learning Management System](https://learning-management-system-self-mu.vercel.app/) | Full Stack Learning Platform | MERN + Redux + Daisy UI |
-| [Real Estate MERN](https://project-mern-deploy-silk.vercel.app/) | Real Estate Listings App | MERN |
-| [Edu Site](https://next-js-coral-three-67.vercel.app/) | Education UI Website | Next.js + TypeScript |
-| [Connectify](https://connectify-six.vercel.app/) | Social Media Clone | MERN |
-| [Pokedex](https://pokedex-pearl-six.vercel.app/) | Pokémon Finder | React.js |
-| [Headphones Landing Page](https://pw-skill-assignment.vercel.app/) | Static E-commerce Page | HTML |
+| [Learning Management System](https://learning-management-system-self-mu.vercel.app/) | Full Stack Learning Platform with Course & Admin Panel | MERN + Redux + Daisy UI |
+| [Google Calendar MCP Server](https://github.com/daemonX10/Google-Calendar-MCP-Server) | AI Assistant Integration with Google Calendar APIs | Node.js, TypeScript, Docker, OAuth2 |
+| [Connectify](https://connectify-six.vercel.app/) | Social Media App Clone with Authentication | MERN |
+| [Real Estate MERN](https://project-mern-deploy-silk.vercel.app/) | Real Estate Listings with Filters and Maps | MERN |
+| [Custom Password Manager Extension](https://github.com/daemonX10/Custom-Password-Manger-extension) | Chrome Extension to Manage Passwords Securely | JavaScript |
+| [Edu Site](https://next-js-coral-three-67.vercel.app/) | Educational Landing Page | Next.js + TypeScript |
+| [n8n Workflow 2 Code](https://github.com/daemonX10/N8N_workflow_2_code) | Converts n8n Workflows to Readable Code | HTML, JS |
+| [Pokedex](https://pokedex-pearl-six.vercel.app/) | Pokémon Lookup and Filter Tool | React.js |
+| [Headphones Landing Page](https://pw-skill-assignment.vercel.app/) | Static E-commerce Product Showcase | HTML |
 
 ---
 
@@ -124,14 +127,15 @@
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Shredder System](https://github.com/daemonX10/PROJECTS/tree/master/Computer%20Vision/shredder%20System) | CV-Powered Shredder System | OpenCV |
-| [YOLOv5 + DeepSort](https://github.com/daemonX10/PROJECTS/tree/master/Computer%20Vision/Yolo%205%20Object%20tracking%20DeepSort/deepSort_with_yolov5) | Real-Time Object Tracking | YOLO |
-| [Medical Chatbot](https://github.com/daemonX10/PROJECTS/tree/master/GEN%20AI%20and%20LLM/End-to-end-Medical-Chatbot-using-Llama2) | RAG-Powered LLM Bot | Llama2, Langchain, Pinecone |
-| [Diamond Price Predictor](https://diamond-price-predication-model.onrender.com/) | ML Regression Web App | Flask + GBR |
-| [Diabetes Predictor](https://diabetes-predication-model-logistic-reg.onrender.com) | Logistic Regression Model | Python |
-| [Sensor Fault Detection](https://github.com/daemonX10/Senser-Fault-Detection) | Full Pipeline ML Project | Python, CI/CD |
-| [Linear Regression Demo](https://linear-ml-model-algerian-forest-1.onrender.com/) | Web App for Regression | Ridge/Linear |
-| [Review Scraper](https://github.com/daemonX10/review-scrapper-aws-main) | Amazon Review Miner | Python |
+| [CEREBUS AI CyberShield](https://github.com/daemonX10/CEREBUS-AI-CyberShield) | Hybrid AI Malware Detection: Static, Dynamic & Reporting | Python, ML, Malware Analysis |
+| [Medical Chatbot](https://github.com/daemonX10/PROJECTS/tree/master/GEN%20AI%20and%20LLM/End-to-end-Medical-Chatbot-using-Llama2) | LLM-Powered Bot Using RAG + Vector DB | Llama2, Langchain, Pinecone |
+| [Sensor Fault Detection](https://github.com/daemonX10/Senser-Fault-Detection) | End-to-End ML Pipeline with CI/CD | Python, ML, GitHub Actions |
+| [YOLOv5 + DeepSort](https://github.com/daemonX10/PROJECTS/tree/master/Computer%20Vision/Yolo%205%20Object%20tracking%20DeepSort/deepSort_with_yolov5) | Real-Time Object Tracking | YOLO, DeepSort |
+| [Shredder System](https://github.com/daemonX10/PROJECTS/tree/master/Computer%20Vision/shredder%20System) | CV-Powered Shredder Automation | OpenCV |
+| [Review Scraper](https://github.com/daemonX10/review-scrapper-aws-main) | Product Review Mining from Amazon | Python, BeautifulSoup |
+| [Diamond Price Predictor](https://diamond-price-predication-model.onrender.com/) | Price Estimator Using Regression | Flask + Gradient Boosting |
+| [Diabetes Predictor](https://diabetes-predication-model-logistic-reg.onrender.com) | Health Risk Classifier | Python, Logistic Regression |
+| [Linear Regression Demo](https://linear-ml-model-algerian-forest-1.onrender.com/) | Web App for Simple Regression | Ridge/Linear Regression |
 
 ---
 
