@@ -151,14 +151,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=daemonX10&theme=tokyonight&border_radius=8&card_width=550" />
-</p>
-
----
-
 ## 🛡️ Holopin Badges
 
 <p align="center">
