@@ -41,6 +41,7 @@
 <img src="https://img.shields.io/badge/javascript-%23F0DB4F.svg?style=for-the-badge&logo=Javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cuda-Brown?style=for-the-badge&logo=Cuda&logoColor=white" />
 </p>
 </details>
 
