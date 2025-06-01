@@ -48,6 +48,25 @@
 </details>
 
 <details>
+<summary>🧪 AI/ML </summary>
+<br>
+<p align="left">
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+<img src="https://img.shields.io/badge/Seaborn-%23ffffff.svg?style=for-the-badge&logo=Seaborn&logoColor=black" />
+<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" />
+<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
+</p>
+</details>
+
+<details>
 <summary>🎨 Frontend</summary>
 <br>
 <p align="left">
@@ -85,44 +104,10 @@
 </p>
 </details>
 
-<details>
-<summary>🧪 Data Science & ML</summary>
-<br>
-<p align="left">
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-<img src="https://img.shields.io/badge/Seaborn-%23ffffff.svg?style=for-the-badge&logo=Seaborn&logoColor=black" />
-<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" />
-<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
-</p>
-</details>
 
 ---
 
 ## 🔥 Highlight Projects
-
----
-
-## 🌐 Web Development Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Learning Management System](https://learning-management-system-self-mu.vercel.app/) | Full Stack Learning Platform with Course & Admin Panel | MERN + Redux + Daisy UI |
-| [Google Calendar MCP Server](https://github.com/daemonX10/Google-Calendar-MCP-Server) | AI Assistant Integration with Google Calendar APIs | Node.js, TypeScript, Docker, OAuth2 |
-| [Connectify](https://connectify-six.vercel.app/) | Social Media App Clone with Authentication | MERN |
-| [Real Estate MERN](https://project-mern-deploy-silk.vercel.app/) | Real Estate Listings with Filters and Maps | MERN |
-| [Custom Password Manager Extension](https://github.com/daemonX10/Custom-Password-Manger-extension) | Chrome Extension to Manage Passwords Securely | JavaScript |
-| [Edu Site](https://next-js-coral-three-67.vercel.app/) | Educational Landing Page | Next.js + TypeScript |
-| [n8n Workflow 2 Code](https://github.com/daemonX10/N8N_workflow_2_code) | Converts n8n Workflows to Readable Code | HTML, JS |
-| [Pokedex](https://pokedex-pearl-six.vercel.app/) | Pokémon Lookup and Filter Tool | React.js |
-| [Headphones Landing Page](https://pw-skill-assignment.vercel.app/) | Static E-commerce Product Showcase | HTML |
 
 ---
 
@@ -142,6 +127,23 @@
 
 ---
 
+## 🌐 Web Development Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Learning Management System](https://learning-management-system-self-mu.vercel.app/) | Full Stack Learning Platform with Course & Admin Panel | MERN + Redux + Daisy UI |
+| [Google Calendar MCP Server](https://github.com/daemonX10/Google-Calendar-MCP-Server) | AI Assistant Integration with Google Calendar APIs | Node.js, TypeScript, Docker, OAuth2 |
+| [Connectify](https://connectify-six.vercel.app/) | Social Media App Clone with Authentication | MERN |
+| [Real Estate MERN](https://project-mern-deploy-silk.vercel.app/) | Real Estate Listings with Filters and Maps | MERN |
+| [Custom Password Manager Extension](https://github.com/daemonX10/Custom-Password-Manger-extension) | Chrome Extension to Manage Passwords Securely | JavaScript |
+| [Edu Site](https://next-js-coral-three-67.vercel.app/) | Educational Landing Page | Next.js + TypeScript |
+| [n8n Workflow 2 Code](https://github.com/daemonX10/N8N_workflow_2_code) | Converts n8n Workflows to Readable Code | HTML, JS |
+| [Pokedex](https://pokedex-pearl-six.vercel.app/) | Pokémon Lookup and Filter Tool | React.js |
+| [Headphones Landing Page](https://pw-skill-assignment.vercel.app/) | Static E-commerce Product Showcase | HTML |
+
+
+---
+
 
 ---
 
@@ -158,6 +160,14 @@
 
 <p align="center">
   <img src="https://holopin.me/mrlegendx10" alt="Holopin Badges" width="100%" />
+</p>
+
+---
+
+## Github Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daemonx10&theme=darkhub" alt="Github Trophy" width="100%" />
 </p>
 
 ---
