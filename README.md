@@ -24,8 +24,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/damodar-yadav-690425177" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/damodarryadav" target="_blank"><img src="https://img.shields.io/badge/CodeChef-Brown?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/damodar-yadav-690425177" target="_blank"><img src="https://img.shields.io/badge/linkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/damodarryadav" target="_blank"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/damodarryadav/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" /></a>
+  <a href="https://www.kaggle.com/yadavdamodar" target="_blank"><img src="https://img.shields.io/badge/kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
 </p>
 
 ---
