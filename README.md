@@ -16,7 +16,7 @@
 - 🔭 Building end-to-end ML applications, chatbots, and dashboard interfaces
 - 🚀 Fast learner & experimenter — **turning curiosity into code**
 - 📫 Reach me: **damodarryadav@gmail.com**
-- 💬 Ask me about: **AI, React, Node, FastAPI, Transformers**
+- 💬 Ask me about: **AI, GANs, Transformers, ML**
 - ⚡ Fun Fact: I can explain deep learning with analogies and memes 🤓
 
 ---
@@ -26,8 +26,11 @@
 <p align="left">
   <a href="https://linkedin.com/in/damodar-yadav-690425177" target="_blank"><img src="https://img.shields.io/badge/linkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.codechef.com/users/damodarryadav" target="_blank"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://wa.me/919082362144" target="_blank"><img src="https://img.shields.io/badge/whatsapp-075E54?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://takeuforward.org/plus/profile/daemonX" target="_blank"><img src="https://img.shields.io/badge/zindi-white?style=for-the-badge&logo=zindi&logoColor=black" /></a>
   <a href="https://leetcode.com/u/damodarryadav/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" /></a>
   <a href="https://www.kaggle.com/yadavdamodar" target="_blank"><img src="https://img.shields.io/badge/kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+  <a href="https://takeuforward.org/plus/profile/daemonX" target="_blank"><img src="https://img.shields.io/badge/tuf-black?style=for-the-badge&logo=takeyouforward&logoColor=white" /></a>
 </p>
 
 ---
