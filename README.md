@@ -110,42 +110,61 @@
 
 ---
 
-## 🔥 Highlight Projects
+# 🚀 Project Portfolio
+
+Welcome to my collection of **Machine Learning**, **Web Development**, and **Generative AI** projects.  
+Each repository showcases practical applications of AI, automation, and full-stack development.
 
 ---
 
 ## 🤖 Machine Learning Projects
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [CEREBUS AI CyberShield](https://github.com/daemonX10/CEREBUS-AI-CyberShield) | Hybrid AI Malware Detection: Static, Dynamic & Reporting | Python, ML, Malware Analysis |
-| [Medical Chatbot](https://github.com/daemonX10/PROJECTS/tree/master/GEN%20AI%20and%20LLM/End-to-end-Medical-Chatbot-using-Llama2) | LLM-Powered Bot Using RAG + Vector DB | Llama2, Langchain, Pinecone |
-| [Sensor Fault Detection](https://github.com/daemonX10/Senser-Fault-Detection) | End-to-End ML Pipeline with CI/CD | Python, ML, GitHub Actions |
-| [YOLOv5 + DeepSort](https://github.com/daemonX10/PROJECTS/tree/master/Computer%20Vision/Yolo%205%20Object%20tracking%20DeepSort/deepSort_with_yolov5) | Real-Time Object Tracking | YOLO, DeepSort |
-| [Shredder System](https://github.com/daemonX10/PROJECTS/tree/master/Computer%20Vision/shredder%20System) | CV-Powered Shredder Automation | OpenCV |
-| [Review Scraper](https://github.com/daemonX10/review-scrapper-aws-main) | Product Review Mining from Amazon | Python, BeautifulSoup |
-| [Diamond Price Predictor](https://diamond-price-predication-model.onrender.com/) | Price Estimator Using Regression | Flask + Gradient Boosting |
-| [Diabetes Predictor](https://diabetes-predication-model-logistic-reg.onrender.com) | Health Risk Classifier | Python, Logistic Regression |
-| [Linear Regression Demo](https://linear-ml-model-algerian-forest-1.onrender.com/) | Web App for Simple Regression | Ridge/Linear Regression |
+| Project | Description | Tools / Tech |
+|----------|--------------|--------------|
+| [CEREBUS AI CyberShield](https://github.com/daemonX10/CEREBUS-AI-CyberShield) | Hybrid AI malware detection combining static, dynamic, and heuristic analysis pipelines. | Python, ML, Malware Analysis |
+| [Medical Chatbot (Llama2)](https://github.com/daemonX10/PROJECTS/tree/master/GEN%20AI%20and%20LLM/End-to-end-Medical-Chatbot-using-Llama2) | End-to-End Medical Chatbot with RAG + Vector DB integration for medical Q&A. | Llama2, LangChain, Pinecone |
+| [Sensor Fault Detection](https://github.com/daemonX10/Senser-Fault-Detection) | End-to-End ML pipeline for detecting anomalies and faults in IoT sensor data with CI/CD. | Python, ML, FastAPI, GitHub Actions |
+| [Diamond Price Predictor](https://diamond-price-predication-model.onrender.com/) | Predict diamond prices based on the 4Cs using regression models. | Flask, scikit-learn, Gradient Boosting |
+| [Diabetes Predictor](https://diabetes-predication-model-logistic-reg.onrender.com) | Logistic Regression-based diabetes prediction web app. | Python, scikit-learn, Flask |
+| [YOLOv5 + DeepSort Tracker](https://github.com/daemonX10/PROJECTS/tree/master/Computer%20Vision/Yolo%205%20Object%20tracking%20DeepSort/deepSort_with_yolov5) | Real-time object tracking using YOLOv5 with DeepSort algorithm. | YOLOv5, OpenCV, DeepSort |
+| [Shredder System](https://github.com/daemonX10/PROJECTS/tree/master/Computer%20Vision/shredder%20System) | AI-based shredding system automation using computer vision. | OpenCV, Python |
+| [Review Scraper](https://github.com/daemonX10/review-scrapper-aws-main) | Scrapes and analyzes product reviews (Amazon / Flipkart) using BeautifulSoup and Flask. | Python, BeautifulSoup, Flask |
 
 ---
 
 ## 🌐 Web Development Projects
 
 | Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Learning Management System](https://learning-management-system-self-mu.vercel.app/) | Full Stack Learning Platform with Course & Admin Panel | MERN + Redux + Daisy UI |
-| [Google Calendar MCP Server](https://github.com/daemonX10/Google-Calendar-MCP-Server) | AI Assistant Integration with Google Calendar APIs | Node.js, TypeScript, Docker, OAuth2 |
-| [Connectify](https://connectify-six.vercel.app/) | Social Media App Clone with Authentication | MERN |
-| [Real Estate MERN](https://project-mern-deploy-silk.vercel.app/) | Real Estate Listings with Filters and Maps | MERN |
-| [Custom Password Manager Extension](https://github.com/daemonX10/Custom-Password-Manger-extension) | Chrome Extension to Manage Passwords Securely | JavaScript |
-| [Edu Site](https://next-js-coral-three-67.vercel.app/) | Educational Landing Page | Next.js + TypeScript |
-| [n8n Workflow 2 Code](https://github.com/daemonX10/N8N_workflow_2_code) | Converts n8n Workflows to Readable Code | HTML, JS |
-| [Pokedex](https://pokedex-pearl-six.vercel.app/) | Pokémon Lookup and Filter Tool | React.js |
-| [Headphones Landing Page](https://pw-skill-assignment.vercel.app/) | Static E-commerce Product Showcase | HTML |
-
+|----------|--------------|------------|
+| [Learning Management System](https://learning-management-system-self-mu.vercel.app/) | Full-stack LMS with course creation, enrollment, admin panel, and user dashboard. | MERN, Redux, DaisyUI |
+| [Google Calendar MCP Server](https://github.com/daemonX10/Google-Calendar-MCP-Server) | AI assistant server integrating Google Calendar APIs. | Node.js, TypeScript, Docker, OAuth2 |
+| [Connectify](https://connectify-six.vercel.app/) | Social media app clone with authentication and post management. | MERN Stack |
+| [Real Estate MERN](https://project-mern-deploy-silk.vercel.app/) | Property listing platform with map integration and filters. | MERN Stack |
+| [Custom Password Manager Extension](https://github.com/daemonX10/Custom-Password-Manger-extension) | Chrome extension to manage and encrypt passwords securely. | JavaScript, Chrome APIs |
+| [Edu Site](https://next-js-coral-three-67.vercel.app/) | Educational landing page with responsive UI. | Next.js, TypeScript |
+| [n8n Workflow → Code Converter](https://github.com/daemonX10/N8N_workflow_2_code) | Converts visual n8n workflows into readable code format. | HTML, JS |
+| [Pokedex App](https://pokedex-pearl-six.vercel.app/) | Pokémon lookup and filter web app. | React.js |
+| [Headphones Landing Page](https://pw-skill-assignment.vercel.app/) | Static product landing page for e-commerce UI demo. | HTML, CSS |
 
 ---
+
+## 🧠 Advanced / GenAI / NLP Projects
+
+| Project | Description | Tech Stack |
+|----------|--------------|------------|
+| [ADV-NLP-GenAI](https://github.com/daemonX10/ADV-NLP-GenAI) | Advanced NLP and Generative AI experiments (text classification, summarization, Q&A). | Transformers, LangChain, Hugging Face |
+| [Advance-LLM](https://github.com/daemonX10/Advance-LLM) | LLM fine-tuning, RAG pipelines, and prompt optimization demos. | PyTorch, Llama2, LangChain |
+
+---
+
+## 🧩 Utility / Support Tools
+
+| Project | Description | Tools / Tech |
+|----------|--------------|--------------|
+| [Encrypt-Decrypt Dual Mode](https://github.com/daemonX10/Encrypt-Decrypt-Dual-mode) | Tool for encrypting & decrypting data using symmetric/asymmetric methods. | Python, Cryptography |
+| [Family Expense Mode](https://github.com/daemonX10/Family-Expense-Mode) | Expense analysis. | data analysis |
+| [Engineer Salary Predictor](https://github.com/daemonX10/engineer-salary) | prediction based on experience, location, and skills - Won 3rd Rank in Bitgrid (3000 dollar hackathon) | Python, scikit-learn, Streamlit |
+
 
 
 ---
