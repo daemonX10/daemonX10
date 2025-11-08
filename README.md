@@ -13,7 +13,6 @@
 ## 🙋‍♂️ About Me
 
 - 👨‍💻 Currently diving deep into **Generative AI & Systems Design**
-- 🔭 Building end-to-end ML applications, chatbots, and dashboard interfaces
 - 🚀 Fast learner & experimenter — **turning curiosity into code**
 - 📫 Reach me: **damodarryadav@gmail.com**
 - 💬 Ask me about: **AI, GANs, Transformers, ML**
