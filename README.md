@@ -118,16 +118,46 @@ Each repository showcases practical applications of AI, automation, and full-sta
 
 ## 🤖 Machine Learning Projects
 
-| Project | Description | Tools / Tech |
-|----------|--------------|--------------|
-| [CEREBUS AI CyberShield](https://github.com/daemonX10/CEREBUS-AI-CyberShield) | Hybrid AI malware detection combining static, dynamic, and heuristic analysis pipelines. | Python, ML, Malware Analysis |
-| [Medical Chatbot (Llama2)](https://github.com/daemonX10/PROJECTS/tree/master/GEN%20AI%20and%20LLM/End-to-end-Medical-Chatbot-using-Llama2) | End-to-End Medical Chatbot with RAG + Vector DB integration for medical Q&A. | Llama2, LangChain, Pinecone |
-| [Sensor Fault Detection](https://github.com/daemonX10/Senser-Fault-Detection) | End-to-End ML pipeline for detecting anomalies and faults in IoT sensor data with CI/CD. | Python, ML, FastAPI, GitHub Actions |
-| [Diamond Price Predictor](https://diamond-price-predication-model.onrender.com/) | Predict diamond prices based on the 4Cs using regression models. | Flask, scikit-learn, Gradient Boosting |
-| [Diabetes Predictor](https://diabetes-predication-model-logistic-reg.onrender.com) | Logistic Regression-based diabetes prediction web app. | Python, scikit-learn, Flask |
-| [YOLOv5 + DeepSort Tracker](https://github.com/daemonX10/PROJECTS/tree/master/Computer%20Vision/Yolo%205%20Object%20tracking%20DeepSort/deepSort_with_yolov5) | Real-time object tracking using YOLOv5 with DeepSort algorithm. | YOLOv5, OpenCV, DeepSort |
-| [Shredder System](https://github.com/daemonX10/PROJECTS/tree/master/Computer%20Vision/shredder%20System) | AI-based shredding system automation using computer vision. | OpenCV, Python |
-| [Review Scraper](https://github.com/daemonX10/review-scrapper-aws-main) | Scrapes and analyzes product reviews (Amazon / Flipkart) using BeautifulSoup and Flask. | Python, BeautifulSoup, Flask |
+---
+
+## 🔴 Advanced / Enterprise-Grade Systems
+> End-to-end, production-oriented, multi-component AI systems
+
+| Project | Description | Tech Stack |
+|------|-------------|-----------|
+| **[CEREBUS AI CyberShield](https://github.com/daemonX10/CEREBUS-AI-CyberShield)** | Hybrid AI malware detection system for known & zero-day threats using static + dynamic analysis, explainable ML, and real-time monitoring. | Python, XGBoost, SHAP, Malware Analysis, Flask |
+| **Medical Chatbot (Llama2 + RAG)**<br/>[Repo](https://github.com/daemonX10/PROJECTS/tree/master/GEN%20AI%20and%20LLM/End-to-end-Medical-Chatbot-using-Llama2) | End-to-end medical QA chatbot using Retrieval-Augmented Generation with vector search. | Llama2, LangChain, Vector DB |
+| **Tree Canopy Detection (Private)** | High-resolution tree canopy segmentation using transformer-based vision models on satellite imagery. | MaskDINO, Vision Transformers, CV |
+| **Sensor Fault Detection**<br/>[Repo](https://github.com/daemonX10/Senser-Fault-Detection) | Complete ML pipeline for detecting anomalies in IoT sensor data with CI/CD. | Python, ML, FastAPI, GitHub Actions |
+
+---
+
+## 🟠 Intermediate / Applied Deep Learning
+> Full-stack ML systems, real-time inference, CV & NLP pipelines
+
+| Project | Description | Tech Stack |
+|------|-------------|-----------|
+| **YOLOv5 + DeepSort Tracker**<br/>[Repo](https://github.com/daemonX10/PROJECTS/tree/master/Computer%20Vision/Yolo%205%20Object%20tracking%20DeepSort/deepSort_with_yolov5) | Real-time multi-object tracking system with ID consistency. | YOLOv5, DeepSort, OpenCV |
+| **End-to-End Sign Language Detection**<br/>[Repo](https://github.com/daemonX10/PROJECTS/tree/master/Computer%20Vision/End-to-end-Sign-Language-Detection) | Real-time sign language detection using object detection pipelines. | YOLOv5, OpenCV, DL |
+| **Car Number Plate Detection**<br/>[Repo](https://github.com/daemonX10/PROJECTS/tree/master/Computer%20Vision/Car-Number-Plates-Detection) | Automatic number plate detection with OCR-based recognition. | OpenCV, OCR, Python |
+| **YOLOv3 / YOLOv5 Custom Training**<br/>[Repo](https://github.com/daemonX10/PROJECTS/tree/master/Computer%20Vision/YOLO%20v3%20and%205%20Custom) | Custom object detection training, loss functions, mAP evaluation. | PyTorch, YOLO |
+| **ChatGPT File Retrieval System**<br/>[Repo](https://github.com/daemonX10/PROJECTS/tree/master/GEN%20AI%20and%20LLM/chatgpt-retrieval-main) | Document-based Q&A system using LLMs over custom files. | LangChain, OpenAI, ChromaDB |
+| **End-to-End Gemini AI Project**<br/>[Repo](https://github.com/daemonX10/PROJECTS/tree/master/GEN%20AI%20and%20LLM/End-To-End-Gemini-Project) | Multi-modal AI assistant for chat + vision reasoning. | Gemini, Python, GenAI |
+| **Telegram GPT Bot**<br/>[Repo](https://github.com/daemonX10/PROJECTS/tree/master/GEN%20AI%20and%20LLM/telebot_GPT_3.5_Turbo_DSM_1.0) | Conversational Telegram bot powered by GPT models. | OpenAI API, Telegram, Python |
+
+---
+
+## 🟢 Foundational / Core Machine Learning
+> Regression, classification, pipelines, and deployment basics
+
+| Project | Description | Tech Stack |
+|------|-------------|-----------|
+| **Diamond Price Predictor**<br/>[Live App](https://diamond-price-predication-model.onrender.com/) | Predicts diamond prices using regression models and feature engineering. | Flask, scikit-learn |
+| **Diabetes Predictor**<br/>[Live App](https://diabetes-predication-model-logistic-reg.onrender.com) | Logistic regression-based health prediction system. | Python, scikit-learn, Flask |
+| **Engineer Salary Prediction**<br/>[Repo](https://github.com/daemonX10/engineer-salary) | Salary prediction using structured ML pipelines. | Python, Pandas, ML |
+| **Cat vs Dog Image Classification**<br/>[Repo](https://github.com/daemonX10/PROJECTS/tree/master/Computer%20Vision/Image%20Classification/Image-classification-Project) | CNN-based image classification web application. | CNN, TensorFlow, Flask |
+| **Review Scraper**<br/>[Repo](https://github.com/daemonX10/review-scrapper-aws-main) | Scrapes and analyzes e-commerce reviews. | Python, BeautifulSoup, Flask |
+| **Shredder System**<br/>[Repo](https://github.com/daemonX10/PROJECTS/tree/master/Computer%20Vision/shredder%20System) | Computer vision-based industrial automation project. | OpenCV, Python |
 
 ---
 
