@@ -2,7 +2,7 @@
 <!-- ![GitHub Banner](https://github.com/Alkaison/Alkaison/assets/98116504/e5a4cb56-1eb4-4a36-8f5b-cefffdfbd074) -->
 
 <h1 align="center">Hi 👋, I'm <span style="color:#f39c12;">Damodar Yadav</span></h1>
-<h3 align="center">💡 AI/ML Explorer | 🔧 Full Stack Developer | 🛠️ Open Source Advocate</h3>
+<h3 align="center">💡 AI Engineer | 🛠️ Open Source Contributer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=89ABE3&center=true&vCenter=true&width=435&lines=Passionate+about+AI+%26+ML;Open+Source+Contributor;Tech+that+makes+impact" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻 Currently diving deep into **Generative AI & Systems Design**
+- 👨‍💻 Currently diving deep into **Systems Design**
 - 🚀 Fast learner & experimenter — **turning curiosity into code**
 - 📫 Reach me: **damodarryadav@gmail.com**
 - 💬 Ask me about: **AI, GANs, Transformers, ML**
@@ -26,7 +26,7 @@
   <a href="https://linkedin.com/in/damodar-yadav-690425177" target="_blank"><img src="https://img.shields.io/badge/linkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.codechef.com/users/damodarryadav" target="_blank"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white" /></a>
   <a href="https://wa.me/919082362144" target="_blank"><img src="https://img.shields.io/badge/whatsapp-075E54?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://takeuforward.org/plus/profile/daemonX" target="_blank"><img src="https://img.shields.io/badge/zindi-white?style=for-the-badge&logo=zindi&logoColor=black" /></a>
+  <a href="https://takeuforward.org/profile/daemonX" target="_blank"><img src="https://img.shields.io/badge/zindi-white?style=for-the-badge&logo=zindi&logoColor=black" /></a>
   <a href="https://leetcode.com/u/damodarryadav/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" /></a>
   <a href="https://www.kaggle.com/yadavdamodar" target="_blank"><img src="https://img.shields.io/badge/kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
   <a href="https://takeuforward.org/plus/profile/daemonX" target="_blank"><img src="https://img.shields.io/badge/tuf-black?style=for-the-badge&logo=takeyouforward&logoColor=white" /></a>
@@ -108,102 +108,92 @@
 
 
 ---
+<div align="center">
 
 # 🚀 Project Portfolio
 
-Welcome to my collection of **Machine Learning**, **Web Development**, and **Generative AI** projects.  
+Welcome to my collection of **Machine Learning**, **Development**, and **Generative AI** projects.  
 Each repository showcases practical applications of AI, automation, and full-stack development.
 
----
-
-## 🤖 Machine Learning Projects
+</div>
 
 ---
 
-## 🔴 Advanced / Enterprise-Grade Systems
-> End-to-end, production-oriented, multi-component AI systems
+<div align="center">
+
+## 🤖 Machine Learning Projects  
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔴 Advanced / Enterprise Systems  
+> Production-ready, multi-component AI systems  
+
+</div>
 
 | Project | Description | Tech Stack |
-|------|-------------|-----------|
-| **[CEREBUS AI CyberShield](https://github.com/daemonX10/CEREBUS-AI-CyberShield)** | Hybrid AI malware detection system for known & zero-day threats using static + dynamic analysis, explainable ML, and real-time monitoring. | Python, XGBoost, SHAP, Malware Analysis, Flask |
-| **Medical Chatbot (Llama2 + RAG)**<br/>[Repo](https://github.com/daemonX10/PROJECTS/tree/master/GEN%20AI%20and%20LLM/End-to-end-Medical-Chatbot-using-Llama2) | End-to-end medical QA chatbot using Retrieval-Augmented Generation with vector search. | Llama2, LangChain, Vector DB |
-| **Tree Canopy Detection (Private)** | High-resolution tree canopy segmentation using transformer-based vision models on satellite imagery. | MaskDINO, Vision Transformers, CV |
-| **Sensor Fault Detection**<br/>[Repo](https://github.com/daemonX10/Senser-Fault-Detection) | Complete ML pipeline for detecting anomalies in IoT sensor data with CI/CD. | Python, ML, FastAPI, GitHub Actions |
+|----------|-------------|------------|
+| **CEREBUS AI CyberShield** | Hybrid malware detection (static + dynamic + explainable ML + real-time monitoring). | Python, XGBoost, SHAP, Flask |
+| **Medical Chatbot (Llama2 + RAG)** | Retrieval-Augmented medical QA chatbot with vector search. | Llama2, LangChain, Vector DB |
+| **Tree Canopy Detection (Private)** | Satellite image segmentation using transformer-based models. | MaskDINO, ViT |
+| **Sensor Fault Detection** | IoT anomaly detection pipeline with CI/CD integration. | Python, FastAPI, ML |
 
 ---
 
-## 🟠 Intermediate / Applied Deep Learning
-> Full-stack ML systems, real-time inference, CV & NLP pipelines
+<div align="center">
+
+## 🟠 Intermediate / Applied Deep Learning  
+> Real-time CV, NLP & LLM systems  
+
+</div>
 
 | Project | Description | Tech Stack |
-|------|-------------|-----------|
-| **YOLOv5 + DeepSort Tracker**<br/>[Repo](https://github.com/daemonX10/PROJECTS/tree/master/Computer%20Vision/Yolo%205%20Object%20tracking%20DeepSort/deepSort_with_yolov5) | Real-time multi-object tracking system with ID consistency. | YOLOv5, DeepSort, OpenCV |
-| **End-to-End Sign Language Detection**<br/>[Repo](https://github.com/daemonX10/PROJECTS/tree/master/Computer%20Vision/End-to-end-Sign-Language-Detection) | Real-time sign language detection using object detection pipelines. | YOLOv5, OpenCV, DL |
-| **Car Number Plate Detection**<br/>[Repo](https://github.com/daemonX10/PROJECTS/tree/master/Computer%20Vision/Car-Number-Plates-Detection) | Automatic number plate detection with OCR-based recognition. | OpenCV, OCR, Python |
-| **YOLOv3 / YOLOv5 Custom Training**<br/>[Repo](https://github.com/daemonX10/PROJECTS/tree/master/Computer%20Vision/YOLO%20v3%20and%205%20Custom) | Custom object detection training, loss functions, mAP evaluation. | PyTorch, YOLO |
-| **ChatGPT File Retrieval System**<br/>[Repo](https://github.com/daemonX10/PROJECTS/tree/master/GEN%20AI%20and%20LLM/chatgpt-retrieval-main) | Document-based Q&A system using LLMs over custom files. | LangChain, OpenAI, ChromaDB |
-| **End-to-End Gemini AI Project**<br/>[Repo](https://github.com/daemonX10/PROJECTS/tree/master/GEN%20AI%20and%20LLM/End-To-End-Gemini-Project) | Multi-modal AI assistant for chat + vision reasoning. | Gemini, Python, GenAI |
-| **Telegram GPT Bot**<br/>[Repo](https://github.com/daemonX10/PROJECTS/tree/master/GEN%20AI%20and%20LLM/telebot_GPT_3.5_Turbo_DSM_1.0) | Conversational Telegram bot powered by GPT models. | OpenAI API, Telegram, Python |
+|----------|-------------|------------|
+| **YOLOv5 + DeepSort Tracker** | Real-time multi-object tracking with ID consistency. | YOLOv5, DeepSort, OpenCV |
+| **Sign Language Detection** | Real-time sign language detection system. | YOLOv5, OpenCV |
+| **Number Plate Detection** | Automatic number plate detection + OCR recognition. | OpenCV, OCR |
+| **YOLO Custom Training** | Custom object detection training + mAP evaluation. | PyTorch, YOLO |
+| **File Retrieval Q&A System** | Document-based LLM Q&A using RAG. | LangChain, OpenAI, ChromaDB |
+| **Gemini AI Assistant** | Multimodal AI assistant (chat + vision). | Gemini, Python |
+| **Telegram GPT Bot** | GPT-powered Telegram chatbot. | OpenAI API, Python |
 
 ---
 
-## 🟢 Foundational / Core Machine Learning
-> Regression, classification, pipelines, and deployment basics
+<div align="center">
+
+## 🟢 Foundational / Core ML  
+> Regression, classification & deployment  
+
+</div>
 
 | Project | Description | Tech Stack |
-|------|-------------|-----------|
-| **Diamond Price Predictor**<br/>[Live App](https://diamond-price-predication-model.onrender.com/) | Predicts diamond prices using regression models and feature engineering. | Flask, scikit-learn |
-| **Diabetes Predictor**<br/>[Live App](https://diabetes-predication-model-logistic-reg.onrender.com) | Logistic regression-based health prediction system. | Python, scikit-learn, Flask |
-| **Engineer Salary Prediction**<br/>[Repo](https://github.com/daemonX10/engineer-salary) | Salary prediction using structured ML pipelines. | Python, Pandas, ML |
-| **Cat vs Dog Image Classification**<br/>[Repo](https://github.com/daemonX10/PROJECTS/tree/master/Computer%20Vision/Image%20Classification/Image-classification-Project) | CNN-based image classification web application. | CNN, TensorFlow, Flask |
-| **Review Scraper**<br/>[Repo](https://github.com/daemonX10/review-scrapper-aws-main) | Scrapes and analyzes e-commerce reviews. | Python, BeautifulSoup, Flask |
-| **Shredder System**<br/>[Repo](https://github.com/daemonX10/PROJECTS/tree/master/Computer%20Vision/shredder%20System) | Computer vision-based industrial automation project. | OpenCV, Python |
+|----------|-------------|------------|
+| **Diamond Price Predictor** | Regression model with feature engineering + deployment. | scikit-learn, Flask |
+| **Diabetes Predictor** | Logistic regression health prediction web app. | Python, Flask |
+| **Engineer Salary Prediction** | Structured ML pipeline for salary prediction. | Python, Pandas |
+| **Cat vs Dog Classifier** | CNN-based image classification web app. | TensorFlow, CNN |
+| **Review Scraper** | E-commerce review scraping + analysis. | Python, BeautifulSoup |
+| **Shredder System** | Computer vision-based automation solution. | OpenCV, Python |
 
 ---
 
-## 🌐 Web Development Projects
+<div align="center">
+
+## 🌐 Web Development Projects  
+
+</div>
 
 | Project | Description | Tech Stack |
-|----------|--------------|------------|
-| [Learning Management System](https://learning-management-system-self-mu.vercel.app/) | Full-stack LMS with course creation, enrollment, admin panel, and user dashboard. | MERN, Redux, DaisyUI |
-| [Google Calendar MCP Server](https://github.com/daemonX10/Google-Calendar-MCP-Server) | AI assistant server integrating Google Calendar APIs. | Node.js, TypeScript, Docker, OAuth2 |
-| [Connectify](https://connectify-six.vercel.app/) | Social media app clone with authentication and post management. | MERN Stack |
-| [Real Estate MERN](https://project-mern-deploy-silk.vercel.app/) | Property listing platform with map integration and filters. | MERN Stack |
-| [Custom Password Manager Extension](https://github.com/daemonX10/Custom-Password-Manger-extension) | Chrome extension to manage and encrypt passwords securely. | JavaScript, Chrome APIs |
-| [Edu Site](https://next-js-coral-three-67.vercel.app/) | Educational landing page with responsive UI. | Next.js, TypeScript |
-| [n8n Workflow → Code Converter](https://github.com/daemonX10/N8N_workflow_2_code) | Converts visual n8n workflows into readable code format. | HTML, JS |
-| [Pokedex App](https://pokedex-pearl-six.vercel.app/) | Pokémon lookup and filter web app. | React.js |
-| [Headphones Landing Page](https://pw-skill-assignment.vercel.app/) | Static product landing page for e-commerce UI demo. | HTML, CSS |
-
----
-
-## 🧠 Advanced / GenAI / NLP Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|------------|
-| [ADV-NLP-GenAI](https://github.com/daemonX10/ADV-NLP-GenAI) | Advanced NLP and Generative AI experiments (text classification, summarization, Q&A). | Transformers, LangChain, Hugging Face |
-| [Advance-LLM](https://github.com/daemonX10/Advance-LLM) | LLM fine-tuning, RAG pipelines, and prompt optimization demos. | PyTorch, Llama2, LangChain |
-
----
-
-## 🧩 Utility / Support Tools
-
-| Project | Description | Tools / Tech |
-|----------|--------------|--------------|
-| [Encrypt-Decrypt Dual Mode](https://github.com/daemonX10/Encrypt-Decrypt-Dual-mode) | Tool for encrypting & decrypting data using symmetric/asymmetric methods. | Python, Cryptography |
-| [Family Expense Mode](https://github.com/daemonX10/Family-Expense-Mode) | Expense analysis. | data analysis |
-| [Engineer Salary Predictor](https://github.com/daemonX10/engineer-salary) | prediction based on experience, location, and skills - Won 3rd Rank in Bitgrid (3000 dollar hackathon) | Python, scikit-learn, Streamlit |
-
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daemonX10&show_icons=true&theme=react" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daemonX10&layout=compact&theme=react&langs_count=10" width="48%" />
-</p>
+|----------|-------------|------------|
+| **Learning Management System** | Full-stack LMS with admin & student dashboard. | MERN, Redux |
+| **Google Calendar MCP Server** | AI assistant integrating Google Calendar APIs. | Node.js, TypeScript |
+| **Connectify** | Social media app clone with authentication. | MERN |
+| **Real Estate MERN** | Property listing platform with filters. | MERN |
+| **Password Manager Extension** | Secure Chrome extension for password management. | JavaScript |
+| **Edu Site / Pokedex / Landing Pages** | Responsive frontend UI projects. | React, Next.js |
 
 ---
 
@@ -212,21 +202,6 @@ Each repository showcases practical applications of AI, automation, and full-sta
 <p align="center">
   <img src="https://holopin.me/mrlegendx10" alt="Holopin Badges" width="100%" />
 </p>
-
----
-
-## Github Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daemonx10&theme=darkhub" alt="Github Trophy" width="100%" />
-</p>
-
----
-
-
-## 🧩 GitHub Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daemonX10&bg_color=101820&color=89ABE3&line=FEE715&point=FFFFFF&hide_border=true)
 
 ---
 
