@@ -2,7 +2,7 @@
 <!-- ![GitHub Banner](https://github.com/Alkaison/Alkaison/assets/98116504/e5a4cb56-1eb4-4a36-8f5b-cefffdfbd074) -->
 
 <h1 align="center">Hi 👋, I'm <span style="color:#f39c12;">Damodar Yadav</span></h1>
-<h3 align="center">💡 AI Engineer | 🛠️ Open Source Contributer</h3>
+<h3 align="center">💡 AI Engineer | 🛠️ Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=89ABE3&center=true&vCenter=true&width=435&lines=Passionate+about+AI+%26+ML;Open+Source+Contributor;Tech+that+makes+impact" alt="Typing SVG" />
