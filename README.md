@@ -107,17 +107,14 @@
 </details>
 
 
----
 <div align="center">
 
 # 🚀 Project Portfolio
 
 Welcome to my collection of **Machine Learning**, **Development**, and **Generative AI** projects.  
-Each repository showcases practical applications of AI, automation, and full-stack development.
 
 </div>
 
----
 
 <div align="center">
 
@@ -128,8 +125,7 @@ Each repository showcases practical applications of AI, automation, and full-sta
 ---
 
 <div align="center">
-
-## 🔴 Advanced / Enterprise Systems  
+  
 > Production-ready, multi-component AI systems  
 
 </div>
@@ -141,11 +137,9 @@ Each repository showcases practical applications of AI, automation, and full-sta
 | **Tree Canopy Detection (Private)** | Satellite image segmentation using transformer-based models. | MaskDINO, ViT |
 | **Sensor Fault Detection** | IoT anomaly detection pipeline with CI/CD integration. | Python, FastAPI, ML |
 
----
 
 <div align="center">
 
-## 🟠 Intermediate / Applied Deep Learning  
 > Real-time CV, NLP & LLM systems  
 
 </div>
@@ -160,11 +154,9 @@ Each repository showcases practical applications of AI, automation, and full-sta
 | **Gemini AI Assistant** | Multimodal AI assistant (chat + vision). | Gemini, Python |
 | **Telegram GPT Bot** | GPT-powered Telegram chatbot. | OpenAI API, Python |
 
----
 
 <div align="center">
 
-## 🟢 Foundational / Core ML  
 > Regression, classification & deployment  
 
 </div>
@@ -195,7 +187,6 @@ Each repository showcases practical applications of AI, automation, and full-sta
 | **Password Manager Extension** | Secure Chrome extension for password management. | JavaScript |
 | **Edu Site / Pokedex / Landing Pages** | Responsive frontend UI projects. | React, Next.js |
 
----
 
 ## 🛡️ Holopin Badges
 
