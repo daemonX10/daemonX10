@@ -342,7 +342,7 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=daemonx10&theme=tokyonight&hide_border=true&background=0d1117&stroke=89ABE3&ring=89ABE3&fire=FFA116&currStreakLabel=89ABE3" alt="GitHub Streak"/>
-
+<a href="https://gitroll.io/profile/uar7uCMf35ZT6sBqYqwLBpaDl9NH3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uar7uCMf35ZT6sBqYqwLBpaDl9NH3?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
 </div>
 
 ---
