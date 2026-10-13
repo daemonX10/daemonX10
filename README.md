@@ -345,6 +345,9 @@
 <a href="https://gitroll.io/profile/uar7uCMf35ZT6sBqYqwLBpaDl9NH3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uar7uCMf35ZT6sBqYqwLBpaDl9NH3?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
 </div>
 
+
+[![My ML fingerprint on Deep-ML](https://www.deep-ml.com/api/badge/daemonX10.svg?repo=deep-ml&t=2DU5uyvtE9Jigg)](https://daemonX10.github.io/deep-ml/)
+
 ---
 
 ## 🛡️ Holopin Badges
